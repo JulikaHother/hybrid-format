@@ -63,7 +63,7 @@ function hideCurtain() {
     setTimeout(() => {
         setInterval(() => {
             curtain.style.opacity = opacity
-            opacity -= 0.1
+            opacity -= 0.05
         }, 50);
-    }, 5000);
+    }, 10000);
 }
