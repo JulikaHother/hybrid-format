@@ -5,17 +5,17 @@
     
     @font-face {
         font-family: 'TINY5x3-280';
-        src: url(fonts/TINY5x3-280.woff2) format("woff2"), url(fonts/TINY5x3-280.woff) format("woff");
+        src: url(../fonts/TINY5x3-280.woff2) format("woff2"), url(../fonts/TINY5x3-280.woff) format("woff");
     }
     
     @font-face {
         font-family: 'Graebenbach';
-        src: url(/fonts/Graebenbach-Regular.woff2) format("woff2"), url(/fonts/Graebenbach-Regular.woff) format("woff");
+        src: url(../fonts/Graebenbach-Regular.woff2) format("woff2"), url(../fonts/Graebenbach-Regular.woff) format("woff");
     }
     
     @font-face {
         font-family: 'Graebenbach-Mono';
-        src: url(/fonts/GraebenbachMono-Regular.woff2) format("woff2"), url(/fonts/Graebenbach-Medium.woff) format("woff");
+        src: url(../fonts/GraebenbachMono-Regular.woff2) format("woff2"), url(../fonts/Graebenbach-Medium.woff) format("woff");
     }
     
     body {
